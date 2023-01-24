@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Designing in Figma")
+        Text("Almost there, just give me time")
             .padding()
     }
 }
