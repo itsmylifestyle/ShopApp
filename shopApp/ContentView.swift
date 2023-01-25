@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("Designing in Figma")
         Text("Almost there, just give me time")
             .padding()
+        Text("a little bit more")
     }
 }
 
