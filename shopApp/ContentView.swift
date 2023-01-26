@@ -13,6 +13,7 @@ struct ContentView: View {
         Text("Almost there, just give me time")
             .padding()
         Text("a little bit more")
+        Text("Wait what, the day 4 on figma")
     }
 }
 
