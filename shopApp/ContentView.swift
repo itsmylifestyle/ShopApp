@@ -14,6 +14,7 @@ struct ContentView: View {
             .padding()
         Text("a little bit more")
         Text("Wait what, the day 4 on figma")
+        Text("It had to be done today, but no")
     }
 }
 
