@@ -17,6 +17,8 @@ struct ContentView: View {
         Text("It had to be done today, but no")
         
         Text("Hello again, no sub today, im on figma")
+        
+        Text("Still in figma")
     }
 }
 
